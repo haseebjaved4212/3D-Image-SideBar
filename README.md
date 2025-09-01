@@ -78,3 +78,7 @@ If you want, I can also:
 
 - Generate an accessible version with keyboard controls
 - Convert the demo into a React/Vue component for reuse
+
+## Preview 
+
+- [3D Image Sidebar]( https://haseebjaved4212.github.io/3D-Image-SideBar/)
